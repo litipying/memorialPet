@@ -8,7 +8,7 @@ A heartwarming application designed to help pet owners memorialize and remember 
 - Upload a pet photo
 - Enter pet's name
 - Write a message to your pet
-![img]([https://github.com/litipying/memorialPet/blob/main/1/2.png)
+![img](https://github.com/litipying/memorialPet/blob/main/1/2.png)
 
 ### 2. Heaven Meeting (Step 2)
 - Transform pet photos into heavenly images using AI technology
