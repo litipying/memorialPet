@@ -5,7 +5,7 @@ A heartwarming application designed to help pet owners memorialize and remember 
 ## The Concept & Value Behind Pet Memorial
 Every pet owner shares a deep bond with their furry friends, who hold a special place in their hearts as beloved family members. When a pet passes away, the sadness can be overwhelming. That’s why we created Pet Memorial—a caring web application designed to help pet owners find comfort and cope with their loss. The Rainbow Bridge is a meadow where animals cross after death on their way to heaven. Many pet owners wonder what their beloved pets are doing after crossing that bridge. Our web application connects pet owners with their pets in heaven, allowing users to upload photos of their pets, just like searching for them in that big paradise. Users can write messages to express their love and longing, and they can receive comforting replies from their pets. They can also use our application's AI function to see how their pets may look like in their next life, choose to send them forward, or let them stay in heaven. This process is important for pet owners, helping them ease their grief and find emotional comfort.
 
-## Features
+## Features & How It Works
 
 ### 1. Upload Memorial (Step 1)
 - Upload a pet photo
