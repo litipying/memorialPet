@@ -2,6 +2,9 @@
 
 A heartwarming application designed to help pet owners memorialize and remember their beloved pets who have crossed the rainbow bridge.
 
+## The Concept & Value Behind Pet Memorial
+Every pet owner shares a special bond with their furry friends, and cats, as beloved family members, hold a special place in many hearts. When a pet passes away, the sadness can be overwhelming. That's why we created Pet Memorial—a caring web application designed to help pet owners find comfort and cope with their grief.
+
 ## Features
 
 ### 1. Upload Memorial (Step 1)
@@ -92,3 +95,30 @@ We thank the authors of the following projects for their excellent contributions
 - [Streamlit](https://streamlit.io/)
 - [Pillow (PIL)](https://pillow.readthedocs.io/en/stable/)
 - [OpenCV (cv2)](https://opencv.org/)
+
+## Our Development Journey
+1. Roles of Members
+   Li Tip Ying: Handled the overall structure of the application using Streamlit, focusing on building the application interface.
+
+   Lu Manman: Integrated the AI functionalities and utilized the Stable Diffusion API for image generation. 
+
+   Cho Ka Yan: Integrated the Mistral API for text generation and implemented features that allow users to upload their pet photos.
+
+2. Weekly Progress
+   Week 1: Idea development and research
+   At the first week, our team focused on brainstorming and refining the concept for the Pet Memorial application. We took references from different pet platforms, exploring their features and themes to understand what elements resonate with users.
+
+   Week 2: Technology stack selection and initial setup
+   We explored various technologies to determine the best stack for our application. After consideration, we chose the Stable Diffusion API for image generation and the Mistral API for text generation. We also set up our core structure using Streamlit and began development of the app's interface.
+
+   Week 3: Development and integration
+   The third week focused on the development process. We implemented the core functionalities of the application, focusing on user experience.
+
+   Week 4: Testing and final adjustments
+   The final week focused on continuing the app development and testing the application for functionality and usability. We also finalized the deployment process using Docker and Docker Compose to make our application ready. Happy to see our product and finally done!
+
+3. Challenges We Encountered
+   We encountered challenges during the project, particularly due to our limited knowledge of Python, which made the development process more difficult for us. Navigating complex coding tasks, debugging errors, and integrating APIs can be tough without a good understanding of the language. We sought help from our classmates, and they were great at providing tips. We also relied on many online resources and tutorials to learn. Plus, our family and friends who are experienced in coding offered us technical advice, which helped us get through the tough spots. A big thanks to them!
+
+4. Potential of Pet Memorial for Future Development
+   This project is our first attempt at creating an application focused on pets, and we see potential for further development. We imagined and discussed adding new features, like letting users upload real photos of their pets to generate cute illustrations or even animations that highlight their pets' unique traits and features. This would further give pet owners special keepsakes to remember their beloved companions (we looked into using ComfyUI, which could be good for the development). We look forward to exploring how we can bring these ideas to life in our future projects.
