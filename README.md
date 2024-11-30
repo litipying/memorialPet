@@ -29,11 +29,20 @@ A heartwarming application designed to help pet owners memorialize and remember 
 
 ## Technology Stack
 
-- Frontend: Streamlit
-- AI Services:
-  - Stable Diffusion API (Image Generation)
-  - Mistral API (Text Generation)
-- Containerization: Docker & Docker Compose
+- **AI Services**
+  - Stable Diffusion API - For AI image generation
+  - Mistral API - For AI text generation
+
+- **Core Framework**
+  - Streamlit - For building the web application interface
+
+- **Image Processing**
+  - Pillow (PIL) - For image handling and manipulation
+  - OpenCV (cv2) - For image processing operations
+
+- **Development Tools**
+  - Docker - For containerization
+  - Docker Compose - For multi-container orchestration
 
 ## Installation
 
@@ -58,8 +67,15 @@ docker-compose up --build
 4. Access the application:
    Open your web browser and navigate to `http://localhost:8501`
 
-## Acknowledgments
+## License
 
-- Thanks to Stability AI for their Stable Diffusion API
-- Thanks to Mistral for their Mistral API
-- Special thanks to all pet owners who inspire us to create this memorial application
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgments
+We thank the authors of the following projects for their excellent contributions!
+
+- [Stable Diffusion API](https://platform.stability.ai/docs/api-reference)
+- [Mistral API](https://console.mistral.ai/)
+- [Streamlit](https://streamlit.io/)
+- [Pillow (PIL)](https://pillow.readthedocs.io/en/stable/)
+- [OpenCV (cv2)](https://opencv.org/)
