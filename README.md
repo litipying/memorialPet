@@ -52,19 +52,32 @@ A heartwarming application designed to help pet owners memorialize and remember 
    - For Docker Compose: Follow the official Docker Compose installation guide:
      https://docs.docker.com/compose/install/
 
-2. Set up environment variables:
+2. Get API Keys:
+   - Stable Diffusion API Key:
+     1. Visit https://platform.stability.ai/
+     2. Sign up for an account
+     3. Navigate to Account Settings
+     4. Generate an API key
+
+   - Mistral API Key:
+     1. Visit https://mistral.ai/
+     2. Create an account
+     3. Go to API Keys section
+     4. Generate a new API key
+
+3. Set up environment variables:
    Create a `.env` file in the root directory and add your API keys:
 ```
 STABILITY_API_KEY=your_stability_api_key
 MISTRAL_API_KEY=your_mistral_api_key
 ```
 
-3. Build and run the Docker containers:
+4. Build and run the Docker containers:
 ```
 docker-compose up --build
 ```
 
-4. Access the application:
+5. Access the application:
    Open your web browser and navigate to `http://localhost:8501`
 
 ## License
